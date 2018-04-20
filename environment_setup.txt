@@ -16,7 +16,8 @@ Install cudnn
 
 Install ngrok
 	refer ngrok.com
-
+	note: when start tunnel, use command "ngrok tcp 22". 22 is the default ssh port.	
+	
 Install openssh-server
 
 Try
